@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6CE29AE5216A72DC001D591F /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 6CE29AE4216A72DC001D591F /* README.md */; };
 		6CF16AC8216221AE003997BC /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6CF16AC7216221AE003997BC /* AppDelegate.swift */; };
 		6CF16ACA216221AE003997BC /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6CF16AC9216221AE003997BC /* ViewController.swift */; };
 		6CF16ACD216221AE003997BC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6CF16ACB216221AE003997BC /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		6CE29AE4216A72DC001D591F /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		6CF16AC4216221AE003997BC /* Age de chat.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Age de chat.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		6CF16AC7216221AE003997BC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		6CF16AC9216221AE003997BC /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -38,6 +40,7 @@
 		6CF16ABB216221AD003997BC = {
 			isa = PBXGroup;
 			children = (
+				6CE29AE4216A72DC001D591F /* README.md */,
 				6CF16AC6216221AE003997BC /* Age de chat */,
 				6CF16AC5216221AE003997BC /* Products */,
 			);
@@ -124,6 +127,7 @@
 			files = (
 				6CF16AD2216221B0003997BC /* LaunchScreen.storyboard in Resources */,
 				6CF16ACF216221B0003997BC /* Assets.xcassets in Resources */,
+				6CE29AE5216A72DC001D591F /* README.md in Resources */,
 				6CF16ACD216221AE003997BC /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
